@@ -1,0 +1,91 @@
+
+KLOK CODE - MAKO STYLE TIME SYSTEM
+(for secret tap time asking)
+
+============================
+BAHASA MELAYU
+============================
+
+Cara Tanya Jam:
+- Petik jari / ketuk meja 2 kali
+  -> maksudnya: "Pukul berapa sekarang?"
+
+Cara Jawab:
+
+1. SETIAP TAP = nombor
+- TAP 1x = 1
+- TAP 2x = 2
+- ...
+- TAP 5x = 5
+- TAP 9x = 9
+
+2. KETUK 2x = titik dua ( : )
+Contoh: pukul 5:21 =
+TAP x5 -> 5
+KETUK x2 -> :
+TAP x2 -> 2
+TAP x1 -> 1
+= 5:21
+
+3. KALAU JAM 12
+- TAP x1 -> 1
+- TAP x2 -> 2
+- KETUK x1 -> masuk ke minit
+
+----------------------------
+PERBEZAAN TAP vs KETUK
+----------------------------
+TAP = bunyi ringan (petik jari / ketuk lembut)
+KETUK = bunyi kuat (guna buku jari / hentak sikit meja)
+
+TAP = nombor
+KETUK = simbol (titik dua : atau "pergi ke minit")
+
+----------------------------
+KENAPA GUNA "TAP"?
+----------------------------
+"Tap" tu English, tapi senang nak faham beza dengan "ketuk".
+Sebab tu Klok Code guna "tap" untuk nombor. Nama pun boss style.
+
+============================
+ENGLISH
+============================
+
+How to Ask Time:
+- Snap / tap table 2 times
+  -> means: "What time is it?"
+
+How to Answer:
+
+1. EACH TAP = a digit
+- TAP 1x = 1
+- TAP 2x = 2
+- ...
+- TAP 5x = 5
+- TAP 9x = 9
+
+2. 2 KNOCKS = colon ( : )
+Example: 5:21
+TAP x5 -> 5
+KNOCK x2 -> :
+TAP x2 -> 2
+TAP x1 -> 1
+
+3. IF HOUR IS 12
+- TAP x1 -> 1
+- TAP x2 -> 2
+- KNOCK x1 -> go to minutes
+
+----------------------------
+TAP vs KNOCK DIFFERENCE
+----------------------------
+TAP = soft sound (finger snap / light tap)
+KNOCK = strong sound (knuckle / firm hit)
+
+TAP = number
+KNOCK = colon or symbol
+
+----------------------------
+WHY "TAP" IN MALAY?
+----------------------------
+"Tap" is English, but we use it in Klok Code because it's short, clear, and sounds different from "ketuk". Boss code needs boss words.
