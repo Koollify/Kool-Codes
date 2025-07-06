@@ -4,3 +4,11 @@ This Readme isn't that important but **Heres the reason WHY I want you to fuckin
 
 - So I can know the fucking time
 - I can communicate ya withouth ___speaking___
+
+If you wanna learn how to tell the time to others wihtouth **SPEAKING**;
+  - Klok Code
+
+Speaking realtime sentences withouth yet again.. **SPEAKING**
+  - Kool Code -
+
+These codes include 2 languages so don't mind the other language if you don't understand them!!
